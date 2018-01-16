@@ -17,7 +17,7 @@ Configure the root of your repository with the following files and directories. 
 #### Scope and Context
 Given the following code, answer the set of questions below. Please copy the questions to your lab directory in a file called `answers.md`.
 
-<script src="https://gist.github.com/sjschmidt44/556d31146a2b1ff3be84820e5fc06959.js"></script>
+{% gist 556d31146a2b1ff3be84820e5fc06959 %}
 
 #### Questions:
 1. When this code is run in Node, e.g. `node index.js`, what are the two stages of execution for this file called, and which order do they happen in?
